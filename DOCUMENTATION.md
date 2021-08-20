@@ -19,7 +19,7 @@ Content CLI has three core functionalities:
 **Profile:** The CLI connects to the EMS environments through profiles. 
 For each of the commands you can specify which profile you want to use. 
 This makes it powerful in the sense that you can pull something from 
-let's say team1.cluser1 and push it directly to team2.cluster2 easily. 
+let's say team1.cluster1 and push it directly to team2.cluster2 easily. 
 You can create a profile using the following command:
 
 ```
